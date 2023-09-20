@@ -1,7 +1,6 @@
 # as_xlsx
 This is a PL/SQL package written by Anton Scheffer which allows us to export Excel XLSX files from an Oracle Database.
 
-/*
 Histórico de alterações:
 
 Autor: Satoru Fukugawa
@@ -64,5 +63,3 @@ Obs:
    logo após a última linha do resultado da querie. Neste caso, a rotina entenderá que 
    a última linha é uma linha de totais, e irá “incorporar” o estilo da linha de 
    totais no table style
-
-*/
